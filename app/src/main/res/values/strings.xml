@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MiPrimerAplicacion</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="saludo">Hola Wilder</string>
+    <string name="action_settings">Settings</string>
+    <string name="actividadprincipal">MI ACTIVIDAD PRINCIPAL</string>
+    <string name="title_activity_activity2">Activity2</string>
+    <string name="procesarbtn">Procesar Boton</string>
+
+</resources>
